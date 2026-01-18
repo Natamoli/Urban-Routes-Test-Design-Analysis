@@ -1,4 +1,4 @@
-# 🚕 Urban Routes - Sprint #2: Test Design & Analysis
+# 🚕 Urban Routes - Test Design & Analysis
 
 ## 📝 About the Project
 
